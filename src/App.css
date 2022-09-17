@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(44, 74, 49);
+}
+.card {
+  background-color: rgb(46, 116, 58);
+  align-items: center;
+  padding: 2%;
+  border-radius: 50px;
+  box-shadow: 0 0 18px rgb(132, 255, 0);
+}
+.card h2 {
+  margin-bottom: 3%;
+}
+.card img {
+  margin : 0 auto;
+  margin-bottom: 3%;
+  border-radius: 50%;
+}
+.card p {
+  font-size: 40px;
+}
+span {
+  font-size: 40px;
+  color: rgb(132, 255, 0);
+}
+ul {
+  font-size: 40px;
+}
+ul li::marker {
+  color:rgb(132, 255, 0);
+}
